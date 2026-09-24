@@ -1,0 +1,5 @@
+1:Sacar la basura
+2:Tender la cama
+3:Hacer la tarea
+4:Obeder a la palabra del señor
+5:Agarrar la pala
